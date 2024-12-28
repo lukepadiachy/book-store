@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>2e7b3269-8b66-4abe-985b-a1a54fb6ea57</UserSecretsId>
+	<ContainerRepository>BookStore.Api.DotNetPublish</ContainerRepository>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 
