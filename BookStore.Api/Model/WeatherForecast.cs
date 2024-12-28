@@ -1,4 +1,4 @@
-namespace BookStore.Api
+namespace BookStore.Api.Model
 {
     public class WeatherForecast
     {
